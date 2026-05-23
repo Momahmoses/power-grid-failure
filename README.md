@@ -1,10 +1,10 @@
-# Electricity Grid Failure Prediction — Predictive Maintenance Platform
+# Electricity Grid Failure Prediction, Predictive Maintenance Platform
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-deployed-red.svg)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Predictive maintenance platform for Nigerian Distribution Companies (DisCos) — forecasting transformer and feeder failures 90 days in advance to reduce unplanned outages and improve SAIDI/SAIFI reliability scores.
+Predictive maintenance platform for Nigerian Distribution Companies (DisCos), forecasting transformer and feeder failures 90 days in advance to reduce unplanned outages and improve SAIDI/SAIFI reliability scores.
 
 ---
 
@@ -75,5 +75,5 @@ streamlit run streamlit_app.py
 
 ## Author
 
-**Momah Moses** — Geospatial AI Engineer & Data Scientist
+**Momah Moses**, Geospatial AI Engineer & Data Scientist
 [GitHub](https://github.com/Momahmoses) · [Portfolio](https://momahmoses-ng-gis-portfolio.hf.space)
